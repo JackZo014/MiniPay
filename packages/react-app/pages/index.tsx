@@ -64,7 +64,7 @@ export default function Home() {
     };
 
     return (
-        <div className="flex flex-col items-center p-4 bg-gray-100">
+        <div className="flex flex-col items-center p-4 bg-gray-150">
 
            
             {address && (
